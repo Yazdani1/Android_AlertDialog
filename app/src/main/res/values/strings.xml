@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Alert Dialog</string>
+
+
+    <string name="alert_text">Welcome to My Alert Dialog Box</string>
+
+
+    <string name="second_activity">Welcome to my Second Activity</string>
+
+
+</resources>
